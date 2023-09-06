@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yuvraj Chauhan
+- 👀 Interested in AI since 2017
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on anything and everything
+- 📫 How to reach me: klara.bohringer@protonmail.com
