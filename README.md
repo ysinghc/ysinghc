@@ -33,9 +33,7 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" width="80"/>
 </p>
 
 <h3 align="center">Database</h3>
